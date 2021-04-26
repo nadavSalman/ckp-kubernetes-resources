@@ -1,3 +1,4 @@
+#Create Deployment , wherer pods deploy only on master node
 apiVersion: apps/v1
 kind: Deployment
 metadata:
